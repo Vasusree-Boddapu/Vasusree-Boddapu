@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BVS Vasu Sree</h1>
-<h3 align="center">M.Tech Data Science Student | Machine Learning Enthusiast | Python Developer | AI Learner</h3>
+<h3 align="center">M.Tech Data Science Student | Machine Learning Enthusiast | Python Developer </h3>
 
 ---
 
