@@ -71,7 +71,7 @@ I have hands-on experience in data preprocessing, feature engineering, predictiv
 
 # 🏆 Achievements
 
-- 🎓 Maintaining **8.61 CGPA** in M.Tech Data Science.
+- 🎓 Maintaining **8.71 CGPA** in M.Tech Data Science.
 - 💼 Successfully completed a **Data Science Internship** at IMMAGINNOVATE.
 - 📊 Developed multiple end-to-end Data Science and Machine Learning projects.
 - 🤖 Built predictive models using Random Forest, K-Means Clustering, and Prophet.
@@ -94,7 +94,7 @@ I have hands-on experience in data preprocessing, feature engineering, predictiv
 
 | Degree | Institution | Score |
 |---------|-------------|-------|
-| M.Tech – Data Science | GITAM University | **CGPA: 8.61** |
+| M.Tech – Data Science | GITAM University | **CGPA: 8.71** |
 | B.Tech – Computer Science & Engineering | GITAM University | **CGPA: 7.01** |
 | Intermediate (MPC) | SASI Educational Institutions | **CGPA: 7.65** |
 | ICSE | St. Francis School | **56.83%** |
@@ -105,9 +105,7 @@ I have hands-on experience in data preprocessing, feature engineering, predictiv
 
 - Deep Learning
 - Natural Language Processing (NLP)
-- Large Language Models (LLMs)
 - Generative AI
-- MLOps
 - Advanced Machine Learning
 
 ---
