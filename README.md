@@ -11,9 +11,9 @@ I am passionate about **Data Science, Machine Learning, Artificial Intelligence,
 
 I have hands-on experience in data preprocessing, feature engineering, predictive modeling, statistical analysis, and visualization through academic projects and internship experience. I continuously improve my technical skills by building projects, learning emerging technologies, and solving coding problems.
 
-- 🌱 Currently learning **Deep Learning, NLP, Generative AI, and MLOps**
+- 🌱 Currently learning **Deep Learning, NLP, Generative AI**
 - 👨‍💻 Interested in **Machine Learning, AI, and Data Analytics**
-- 💬 Ask me about **Python, Machine Learning, SQL, Java, Data Science**
+- 💬 Ask me about **Python, Machine Learning, Data Science**
 - 📫 Reach me at **vasusreeboddapu@gmail.com**
 
 ---
