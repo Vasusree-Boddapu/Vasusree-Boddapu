@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm BVS Vasu Sree</h1>
 <h3 align="center">M.Tech Data Science Student | Machine Learning Enthusiast | Python Developer | AI Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
